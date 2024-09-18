@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430745263684",
+    "project_id": "diariodeviagens-62425",
+    "storage_bucket": "diariodeviagens-62425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430745263684:android:d718de1a7b51c3f51de611",
+        "android_client_info": {
+          "package_name": "diariodeviagens.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9KlbRwz7VyxGN3-vL12nTuRmnonp2Mvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
